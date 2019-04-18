@@ -1,4 +1,6 @@
 ## 更新日志
+### 1.3.5
+    more stable
 ### 1.3.4
     loader support .md
 ### 1.3.3
