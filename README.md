@@ -1,5 +1,7 @@
-[![npm version](https://img.shields.io/npm/v/h-ice-cli.svg)](https://www.npmjs.com/package/h-ice-cli)
 # h-ice-cli
+
+[![NPM version](https://img.shields.io/npm/v/h-ice-cli.svg)](https://www.npmjs.com/package/h-ice-cli)
+[![NPM downloads](http://img.shields.io/npm/dm/h-ice-cli.svg?style=flat-square)](http://npmjs.com/h-ice-cli)
 
 #### Thank ice-script / alibaba.
 #### With hunzsig's contribution and ice-script.

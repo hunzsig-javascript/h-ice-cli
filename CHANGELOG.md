@@ -1,4 +1,6 @@
 ## 更新日志
+### 1.3.9
+    delete package:react-markdown-reader
 ### 1.3.5 ~ 1.3.8
     more stable
     more stable
